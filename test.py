@@ -53,4 +53,6 @@ while e // 1 != 0:
 
 print(total)
 
+print("hi")
+
 
