@@ -1,3 +1,0 @@
-# Podcast-
-first kaggle comp! 
-
